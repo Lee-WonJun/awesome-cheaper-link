@@ -11,3 +11,5 @@
 - [문피아](https://mm.munpia.com/?menu=payment&pageType=normal)
 - [네이버 바이브](https://vibe.naver.com/membership/vibe)
 - [네이버 MYBOX](https://mybox.naver.com/about/product)
+- [알라딘](https://www.aladin.co.kr/home/welcome.aspx)
+- [yes24](http://www.yes24.com/Main/default.aspx)
