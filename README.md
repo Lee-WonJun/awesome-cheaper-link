@@ -7,6 +7,7 @@
 - [네이버웹툰/네이버시리즈](https://series.naver.com/my/cookie/sellingList.nhn)
 - [라프텔](https://laftel.net/point)
 - [티빙](https://www.tving.com/membership/tving)
+- [웨이브](https://www.wavve.com/voucher/index.html)
 - [문피아](https://mm.munpia.com/?menu=payment&pageType=normal)
 - [네이버 바이브](https://vibe.naver.com/membership/vibe)
 - [네이버 MYBOX](https://mybox.naver.com/about/product)
