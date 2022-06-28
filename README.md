@@ -8,6 +8,5 @@
 - [라프텔](https://laftel.net/point)
 - [티빙](https://www.tving.com/membership/tving)
 - [문피아](https://mm.munpia.com/?menu=payment&pageType=normal)
-- [바이브](https://vibe.naver.com/membership/vibe)
+- [네이버 바이브](https://vibe.naver.com/membership/vibe)
 - [네이버 MYBOX](https://mybox.naver.com/about/product)
-- [네이버 VIBE](https://vibe.naver.com/membership/vibe)
