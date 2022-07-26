@@ -19,7 +19,7 @@
 ### 음악
 - [네이버 바이브](https://vibe.naver.com/membership/vibe)
 - [FLO](https://www.music-flo.com/purchase/voucher)
-
+- [지니](https://www.genie.co.kr/ticket)
 
 ### 도서
 - [알라딘](https://www.aladin.co.kr/home/welcome.aspx)
